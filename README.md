@@ -26,6 +26,8 @@ This project simplifies the process of integrating image recognition and virtual
 🧩 🔍 Detection & Tracking: Facilitates real-time detection and management of AR images, ensuring accurate recognition.
 🎯 🖼️ Model Instantiation: Instantiates corresponding 3D models upon image recognition for immediate visual feedback.
 🔄 🔧 Visibility & Position Updates: Keeps virtual objects synchronized with their physical counterparts, updating visibility and placement dynamically.
+
+
 🧭 🛠️ Seamless Interaction: Maintains smooth interaction by monitoring tracking states, enhancing user immersion.
 ⚙️ 📦 Easy Integration: Designed for straightforward incorporation into existing AR architectures, reducing development overhead.
 Getting Started
@@ -41,9 +43,6 @@ Installation
 Build AR-simulation- from the source and install dependencies:
 
 Clone the repository:
-
-❯ git clone https://github.com/excaliber90/AR-simulation-
-Navigate to the project directory:
 
 ❯ cd AR-simulation-
 Install the dependencies:
