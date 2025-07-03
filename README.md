@@ -65,4 +65,3 @@ Ar-simulation- uses the {test_framework} test framework. Run the test suite with
 Using nuget:
 
 dotnet test
-⬆ Return
